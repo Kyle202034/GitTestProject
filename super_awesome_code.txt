@@ -1,1 +1,1 @@
-Modified
+print("GAME START");
